@@ -32,4 +32,5 @@ div {
   text-align: center;
   width: 25%;
   background-color: red;
+  margin-right: -4px;
 }
