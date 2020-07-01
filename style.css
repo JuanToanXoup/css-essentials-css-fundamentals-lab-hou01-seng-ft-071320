@@ -28,5 +28,6 @@ figcaption {
 div {
   background-color: red;
   text-align: center;
+  width: 20%;
   display: inline-block;
 }
