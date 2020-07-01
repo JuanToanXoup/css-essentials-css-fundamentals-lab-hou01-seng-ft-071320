@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 
-header,#featured-property img {
+header,#featured-property figure {
   text-align:center;
 }
 nav a {
