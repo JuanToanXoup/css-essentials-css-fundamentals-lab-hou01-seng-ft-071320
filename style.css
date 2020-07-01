@@ -30,8 +30,6 @@ figcaption {
 div {
   box-sizing: border-box;
   display: inline-block;
-  height: 150px;
-  padding: 50px;
   text-align: center;
   width: 25%;
   background-color: red;
