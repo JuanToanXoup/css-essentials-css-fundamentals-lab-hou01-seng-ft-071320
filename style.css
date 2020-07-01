@@ -28,9 +28,12 @@ figcaption {
 
 }
 div {
-  background-color: red;
+  box-sizing: border-box;
+  display: inline-block;
+  height: 150px;
+  padding: 50px;
   text-align: center;
   width: 25%;
-  display:inline-block;
+  background-color: red;
 
 }
