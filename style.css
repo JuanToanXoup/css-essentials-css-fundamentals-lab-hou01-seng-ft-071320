@@ -25,3 +25,8 @@ figcaption {
   width: 800px;
   text-align: center;
 }
+div {
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
